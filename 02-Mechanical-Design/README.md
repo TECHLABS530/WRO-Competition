@@ -47,3 +47,25 @@ We will make different versions of the chassis.
 After each test, we will check the design and make changes if needed.
 
 Our first design will be saved as **Version 1 (V1)**.
+## Version 1 - First Chassis Design
+
+This was our first chassis design made using OpenSCAD.
+
+![V1 3D Concept](V1-3D-Concept.jpg)
+
+We designed a closed body with a front wedge and space for the robot parts.
+
+## Laser-Cut Prototype
+
+Before making the final chassis, we prepared the design for laser cutting.
+
+![V1 Laser Cut Layout](V1-Laser-Cut-Layout.jpg)
+
+We wanted to make a quick prototype to:
+
+- Check the robot size.
+- Check if the parts fit together.
+- Test the motor and wheel positions.
+- Find problems before making the final chassis.
+
+This prototype helped us save time before making the next version.
