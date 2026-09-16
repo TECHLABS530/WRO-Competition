@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="ZERO%20GAP.jpeg" width="250">
+</p>
 # ZERO GAP
 
 ## WRO 2026 - Sumo Robot
